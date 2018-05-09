@@ -12,7 +12,7 @@ define Package/gluon-banner
   CATEGORY:=Customization
   TITLE:=Banner file replacement
   DEPENDS:=+gluon-core
-  MAINTAINER:=cmarxmeier
+  MAINTAINER:=Freifunk Troisdorf
   URL:=https://github.com/cmarxmeier/freifunk-packages
   SOURCE:=https://github.com/cmarxmeier/freifunk-packages.git
 endef
